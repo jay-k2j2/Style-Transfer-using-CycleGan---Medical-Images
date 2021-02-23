@@ -29,6 +29,15 @@ More on, project details are given in [Project Summary](https://github.com/jay-k
 
 ![](https://github.com/jay-k2j2/Style-Transfer-using-CycleGan---Medical-Images/blob/main/Training.png "Training")
 
+Average Generator loss G at epoch 200: 0.81
+
+Average Generator loss F at epoch 200: 0.77
+
+Average Discriminator loss X at epoch 200: 0.69
+
+Average Discriminator loss Y at epoch200: 0.67
+
+
 ## Testing
 
 ![](https://github.com/jay-k2j2/Style-Transfer-using-CycleGan---Medical-Images/blob/main/Output.png)
