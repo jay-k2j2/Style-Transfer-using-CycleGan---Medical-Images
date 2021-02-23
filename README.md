@@ -1,1 +1,1 @@
-# Style-Transfer-using-CycleGan---Mediacal-Images
+# Style-Transfer-using-CycleGan---Medical-Images
