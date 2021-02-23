@@ -11,9 +11,9 @@ But to have access to different imaging is difficult & expensive & this where, w
 
 In the [dataset](https://github.com/jay-k2j2/Style-Transfer-using-CycleGan---Medical-Images/blob/main/dataset.zip "Data") we have 2 types of images, T1 weighted images and T2 weighted images.
 
-T1-weighted → fat issue appear to be bright
+**T1-weighted → fat issue appear to be bright**
 
-T2-weighted → both fat and water regions appear to be bright
+**T2-weighted → both fat and water regions appear to be bright**
 
 ![](https://geekymedics.com/wp-content/uploads/2020/04/meningioma-770x331.png)
 ![](https://miro.medium.com/max/850/0*hkIDyRfNbZrr6W99.png)
@@ -29,13 +29,13 @@ More on, project details are given in [Project Summary](https://github.com/jay-k
 
 ![](https://github.com/jay-k2j2/Style-Transfer-using-CycleGan---Medical-Images/blob/main/Training.png "Training")
 
-Average Generator loss G at epoch 200: 0.81
+**Average Generator loss G at epoch 200: 0.81**
 
-Average Generator loss F at epoch 200: 0.77
+**Average Generator loss F at epoch 200: 0.77**
 
-Average Discriminator loss X at epoch 200: 0.69
+**Average Discriminator loss X at epoch 200: 0.69**
 
-Average Discriminator loss Y at epoch200: 0.67
+**Average Discriminator loss Y at epoch200: 0.67**
 
 
 ## Testing
