@@ -23,7 +23,7 @@ having both type of MRI scans will enhance the accuracy of diagnosis.However, in
 
 [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf) is used for style transfer and image generation. CycleGAN have its own advantages, like produces it high quality images and does not required paired data.
 
-more on project details are available [here](https://github.com/jay-k2j2/Style-Transfer-using-CycleGan---Medical-Images/blob/main/CycleGAN%20summary.pdf "Summary"). project outcomes are shown below:
+more on project details are available [here](https://github.com/jay-k2j2/Style-Transfer-using-CycleGan---Medical-Images/blob/main/CycleGAN%20summary.pdf "Summary"). Project code is given [here](https://github.com/jay-k2j2/Style-Transfer-using-CycleGan---Medical-Images/blob/main/cyclegan_medical_GitHUB.ipynb).Project outcomes are shown below:
 
 ## Training
 
